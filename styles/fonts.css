@@ -1,0 +1,26 @@
+@font-face {
+  font-family: medium;
+  src: url("/fonts/OpenSans_Condensed-Medium.ttf");
+}
+
+@font-face {
+  font-family: regular;
+  src: url("/fonts/OpenSans_SemiCondensed-Regular.ttf");
+}
+
+@font-face {
+  font-family: bold;
+  src: url("/fonts/OpenSans_Condensed-Bold.ttf");
+}
+
+.medium {
+  font-family: "medium" !important;
+}
+
+.bold {
+  font-family: "bold" !important;
+}
+
+.regular {
+  font-family: "regular" !important;
+}
